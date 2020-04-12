@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="73.924362mm"
+   height="68.501404mm"
+   viewBox="0 0 73.924363 68.501405"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="footer-logo.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88339579"
+     inkscape:cx="333.39538"
+     inkscape:cy="109.90458"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g105"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="549"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.622474,-109.45419)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:192px;line-height:1.25;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:192px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"><rect
+           id="rect16"
+           width="145.5639"
+           height="125.71429"
+           x="99.248123"
+           y="540.26404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:192px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara20">A</flowPara></flowRoot>    <g
+       id="g105"
+       transform="matrix(0.9321812,0,0,0.92915063,16.713276,7.7265776)">
+      <ellipse
+         ry="35.596073"
+         rx="36.471386"
+         cy="147.6132"
+         cx="38.805553"
+         id="path10"
+         style="fill:#808080;fill-rule:evenodd;stroke-width:0.26458332" />
+      <g
+         aria-label="A "
+         transform="matrix(0.88413394,-0.01070031,0.00521045,0.68243996,-208.97214,-254.70304)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33410645px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none"
+         id="flowRoot22">
+        <path
+           d="m 307.13919,636.75265 q -5.98962,0 -10.41673,-15.36467 -1.69272,-5.85941 -4.2318,-20.50793 -6.64066,0.91146 -17.38291,3.25522 l -17.31781,3.58075 q -3.25523,8.5287 -11.13288,24.93504 -2.08334,3.64586 -5.66409,3.64586 -2.60418,0 -4.68753,-1.88803 -2.01824,-1.88804 -2.01824,-4.68753 0,-3.12502 9.83079,-23.76316 -1.10678,-1.69272 -1.10678,-3.90627 0,-5.27347 6.38025,-6.77088 7.42191,-13.93237 18.7501,-32.03143 15.42978,-24.67462 19.20584,-24.67462 5.14326,0 7.0313,7.1615 l 4.10158,21.87512 9.70058,45.24766 3.71096,10.28652 q 1.88803,5.27347 1.88803,7.03129 0,2.7995 -2.01824,4.68753 -2.01824,1.88803 -4.62242,1.88803 z m -22.98191,-74.41449 -18.6199,30.01319 q 7.87765,-2.01824 23.89337,-4.88284 z"
+           style=""
+           id="path21" />
+      </g>
+      <g
+         aria-label="+"
+         transform="matrix(1.4203914,0,0,1.2080451,-416.58727,-746.27117)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99976349px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none"
+         id="flowRoot853">
+        <path
+           d="m 329.48726,755.95203 q 0,0.72265 -0.48828,1.26952 -0.46875,0.52734 -1.1914,0.52734 -0.23438,0 -0.70312,-0.0781 -0.46875,-0.0781 -0.72265,-0.0781 l -1.95312,0.0391 q -1.1914,0.0391 -1.95311,0 v 4.58982 q 0,1.7578 -1.73827,1.7578 -0.85937,0 -1.30859,-0.42968 -0.42968,-0.44922 -0.42968,-1.32812 l -0.0195,-2.24608 -0.0195,-2.26561 q -2.36326,0.13672 -3.33982,0.13672 -3.02733,0 -3.02733,-1.79687 0,-1.26952 1.07422,-1.58202 0.37109,-0.0977 1.95311,-0.0977 0.97656,0 3.33982,-0.13671 l -0.0195,-2.28515 q 0,-1.77733 0.17578,-2.46092 0.19531,-0.70312 0.60547,-1.05468 0.41015,-0.35156 1.05468,-0.35156 0.74218,0 1.24999,0.48828 0.52734,0.46874 0.52734,1.21093 0,0.33203 -0.0781,1.05468 -0.0586,0.72265 -0.0586,1.09374 l 0.0195,2.22655 1.46483,0.0586 q 0.39062,0 1.1914,-0.0391 0.80078,-0.0586 1.1914,-0.0586 3.20311,0 3.20311,1.83593 z"
+           style=""
+           id="path24" />
+      </g>
+    </g>
+  </g>
+</svg>

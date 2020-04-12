@@ -353,5 +353,7 @@ label:hover > .submenu{
 }
 .social-link{
 	display:block;
+	margin:0;
+	padding:0;
 }
 }

@@ -352,7 +352,9 @@ label:hover > .submenu{
 	margin: 0;
 }
 .social-link{
-	display:inline-block;
+	display:flex;
+	align-items:center;
+	justufy-content:center;
 	margin: 5px;
 	vertical-align: middle;
 	padding-left: 5px;

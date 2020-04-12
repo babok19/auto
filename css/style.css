@@ -355,7 +355,6 @@ label:hover > .submenu{
 	display:flex;
 	align-items:center;
 	justufy-content:center;
-	margin: 5px;
 	vertical-align: middle;
 	padding-left: 5px;
 }

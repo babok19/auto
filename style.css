@@ -125,6 +125,7 @@ label:hover > .submenu{
 .cars{
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-around;
 }
 .cars .card{
 	width: 300px;
@@ -180,8 +181,6 @@ label:hover > .submenu{
 .justify-center{
 	display: flex;
 	justify-content:center;
-	align-items: center;
-	vertical-align: middle;
 }
 .justify-between{
 	display: flex;

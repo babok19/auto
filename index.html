@@ -9,7 +9,11 @@
 <body>
 	<header>
 		<div class="head">
-			<img src="img/logo.svg" alt="logo" class="logo">
+			<div class="logo">
+			<a href="#">
+			<img src="img/logo.svg" alt="logo">
+		</a>
+	</div>
 			<nav class="header-nav">
 				<a href="#">Главная</a>
 				<a href="#">Категории</a>
@@ -25,7 +29,6 @@
 	<section>
 	<div class="category justify-center">
 				<label for="all_car">Все</label>
-
 				<label for="lite_car">Легковые
 					<ul class="submenu">
 						<li>Lexus</li>
@@ -52,7 +55,8 @@
 			</div>
 <form>
 			<input type="radio" name="car" id="all_car" class="switch switch-all">
-				<div class="cars wrapper margin-center justify-between" id="lite">	
+				<div class="cars wrapper margin-center justify-between" id="all_car">
+				<input type="text">	
 				<div class="card">
 					<img src="img/AudiA3.jpg">
 					<div class="info">Модель: Audi A3 III</div>
@@ -234,7 +238,7 @@
 					<div class="info">Год: 2014</div>	
 					<div class="info">Цена: 3 600 000 р.</div>
 				</div>
-				<div class="card">
+				<div class="card" id="bmw">
 					<img src="img/BMWX6.jpg">
 					<div class="info">Модель: BMW X6 M I</div>
 					<div class="info">Год: 2010</div>	

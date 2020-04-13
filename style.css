@@ -28,7 +28,6 @@ margin: 5px;
 	justify-content: center;
 	border: 1px;
 	background-color: #000;
-
 }
 .header-nav a{
 	text-decoration: none;
@@ -300,12 +299,10 @@ label:hover > .submenu{
 .footer-nav>ul>li>a{
 	text-decoration: none;
 	color: #595959;
-	border-bottom: 1px solid #595959;
 }
 .footer-nav>ul>li>a:hover{
 	text-decoration: none;
 	color: #000;
-	border-bottom: 1px solid #000;
 }
 .footer-logo{
 	margin-right: 55px;
@@ -315,9 +312,9 @@ label:hover > .submenu{
 	margin-right: 30px;
 	margin-left: 55px;
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 480px){
 	h1{
-		font-size: 20px;
+		font-size: 10px;
 	}
 .head{
 	display: flex;
@@ -325,6 +322,19 @@ label:hover > .submenu{
 }
 .logo{
 	width: 150px;
+}
+.header-nav{
+	display: flex;
+	align-items: center;
+	vertical-align: middle;
+	flex-flow: column;
+	justify-content: center;
+	border: 1px;
+	background-color: #000;
+	border-radius: 5px;
+	margin: 10px;
+	width: auto;
+	height: auto;
 }
 .category label{
 	font-size: 10px;
@@ -338,10 +348,6 @@ label:hover > .submenu{
 .category{
 	display: flex;
 	width: auto;
-}
-.category label{
-	text-transform: uppercase;
-	padding: 10px;
 }
 .submenu{
 	position: absolute;
@@ -377,4 +383,91 @@ label:hover > .submenu{
 	display: block;
 	padding-right: 15px;
 }
+}
+@media screen and (min-width: 480px) and (max-width: 800px) {
+	h1{
+		font-size: 25px;
+	}
+.head{
+	display: flex;
+	width: auto;
+}
+.logo{
+	width: 250px;
+}
+.category label{
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 5px;
+}
+.category label:hover{
+	background-color: #000;
+	color: white;
+}
+.category{
+	display: flex;
+	width: auto;
+}
+
+.submenu{
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background: black;
+	list-style: none;
+	width: auto;
+	z-index: 2;
+	display: none;
+	color: #fff;
+}
+.submenu li{
+	display: flex;
+	padding: 5px;
+	margin: 0;
+}
+.footer{
+	margin:5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 100%;
+}
+.footer-nav{
+	display: block;
+	margin: 0;
+	font-size: 13px;
+}
+.footer-logo{
+	display: none;
+	margin: 0;
+}
+.social-link{
+	display: block;
+	margin: 0 auto;
+	margin-right: 20px;
+	width: 45px;
+}
+.social-link img{
+	margin: 0 auto;
+
+}
+}
+@media screen and (min-width: 800px)
+{
+.category label{
+	font-size: 22px;
+	text-transform: uppercase;
+	padding: 5px;
+}
+.category label:hover{
+	background-color: #000;
+	color: white;
+}
+	.footer{
+		width: 100%;
+	}
+	.footer-nav{
+		display: block;
+		background-color: #fff;
+		width: 70px;
+		height: auto;
 }

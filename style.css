@@ -349,6 +349,7 @@ div .number{
 	border: none;
 	padding: 0;
 	margin: 0;
+	padding-top: 5px;
 }
 .category label{
 	font-size: 10px;

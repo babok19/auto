@@ -348,12 +348,6 @@ label:hover > .submenu{
 	width: auto;
 	height: auto;
 }
-div .number{
-	font-size: 13px;
-	border: none;
-	padding: 0;
-	margin: 0;
-}
 .category label{
 	font-size: 10px;
 	text-transform: uppercase;

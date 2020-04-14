@@ -144,7 +144,12 @@ label:hover > .submenu{
 .card{
 	margin-top: 10px;
 }
-
+.card:not(:nth-child(3n)){
+margin-left: 2.666666%;
+}
+.card:not(:nth-child(3n)){
+	margin-right: 2%;
+}
 .card img{
 	width: 100%;
 	object-fit: cover;

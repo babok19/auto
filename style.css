@@ -12,7 +12,8 @@ body{
 .logo img{
 	width: 280px;
 	display: flex;
-margin: 10px;}
+margin: 10px;
+}
 .head{
 display: flex;
 justify-content: space-between;
@@ -107,6 +108,8 @@ label:hover > .submenu{
 }
 .cars{
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
 	width: auto;
 	height: auto;
     border: 1px;
@@ -122,42 +125,34 @@ label:hover > .submenu{
 	background-color: #000;
 	color: white;
 }
-.cars{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-}
-.cars .card{
-	width: 300px;
+.card{
+	width:300px;
 	height: 350px;
 	background: #000;
 	color: #fff;
 	border-radius: 10px;
-	overflow: auto;
 	margin-bottom: 20px;
+	margin-top: 10px;
 }
-.cars .card:hover{
+.card:hover{
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
 	transition: 0.3s;
 }
-.cars .card:not(:hover){
+.card:not(:hover){
 	transition: 0.4s;
 }
 .card{
 	margin-top: 10px;
 }
-.cars .card img{
+
+.card img{
 	width: 100%;
 	object-fit: cover;
 	height: 230px;
 }
-.cars .card .info{
+.card .info{
 	margin: 0 10px;
 	padding: 6px;
-}
-.justify-center{
-	display: flex;
-	justify-content: center;
 }
 .switch{
 	display: none;
@@ -172,28 +167,11 @@ label:hover > .submenu{
 .switch:not(:checked):(.switch-all:checked) + .cars{
 	display: block;
 }
-.wrapper{
-	width: auto;
-}
-.margin-center{
-	margin: 5px;
-}
 .justify-center{
 	display: flex;
 	justify-content:center;
 }
-.justify-between{
-	display: flex;
-	justify-content: space-between;
-}
-.direction-row{
-	display: flex;
-	flex-direction: row;
-}
-.align-center{
-	display: flex;
-	align-items: center;
-}
+
 .feedback{
 	display: flex;
 	max-width: 230px;

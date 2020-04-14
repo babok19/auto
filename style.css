@@ -149,6 +149,7 @@ label:hover > .submenu{
 	width: 100%;
 	object-fit: cover;
 	height: 230px;
+	border-radius:5px;
 }
 .card .info{
 	margin: 0 10px;

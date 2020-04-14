@@ -144,12 +144,6 @@ label:hover > .submenu{
 .card{
 	margin-top: 10px;
 }
-.card:not(:nth-child(3n)){
-margin-left: 2.666666%;
-}
-.card:not(:nth-child(3n)){
-	margin-right: 2%;
-}
 .card img{
 	width: 100%;
 	object-fit: cover;
@@ -353,9 +347,6 @@ margin-left: 2.666666%;
 	display: flex;
 	width: auto;
 }
-.card{
-	margin: 0 auto;
-}
 .submenu{
 	position: absolute;
 	top: 100%;
@@ -494,6 +485,12 @@ margin-left: 2.666666%;
 .category label:hover{
 	background-color: #000;
 	color: white;
+}
+.card:not(:nth-child(3n)){
+margin-left: 2.666666%;
+}
+.card:not(:nth-child(3n)){
+	margin-right: 2%;
 }
 	.footer{
 		width: 100%

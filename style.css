@@ -353,6 +353,9 @@ margin-left: 2.666666%;
 	display: flex;
 	width: auto;
 }
+.card{
+	margin: 0 auto;
+}
 .submenu{
 	position: absolute;
 	top: 100%;

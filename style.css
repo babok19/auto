@@ -141,9 +141,6 @@ label:hover > .submenu{
 .card:not(:hover){
 	transition: 0.4s;
 }
-.card{
-	margin-top: 10px;
-}
 .card img{
 	width: 100%;
 	object-fit: cover;
@@ -486,11 +483,8 @@ label:hover > .submenu{
 	background-color: #000;
 	color: white;
 }
-.card:not(:nth-child(3n)){
-margin-left: 2.666666%;
-}
-.card:not(:nth-child(3n)){
-	margin-right: 2%;
+.card:not(:nth-child(4n)){
+	margin-left: 1.333333%;
 }
 	.footer{
 		width: 100%
